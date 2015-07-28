@@ -7,6 +7,8 @@ Escape nested double quotes and unescape apostrophes within JSON string.
 [![License][license]][license-url]
 [![Travis Build][travis-image]][travis-url]
 
+[![NPM Statistics][npm-statistics-image]][npm-url]
+
 ## Installation
 
 `npm install escape-json-node`
@@ -55,3 +57,4 @@ Distributed under the [MIT License](LICENSE).
 [license-url]: https://github.com/AnatoliyGatt/escape-json-node/blob/master/LICENSE
 [travis-image]: https://img.shields.io/travis/AnatoliyGatt/escape-json-node/master.svg
 [travis-url]: https://travis-ci.org/AnatoliyGatt/escape-json-node
+[npm-statistics-image]: https://nodei.co/npm/escape-json-node.png?downloads=true&downloadRank=true&stars=true
