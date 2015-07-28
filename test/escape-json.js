@@ -4,11 +4,11 @@ var escapeJSON = require("../lib/escape-json");
 describe("escape-json", function() {
     describe("init", function() {
         it("should not modify JSON string which is not containing any apostrophes or double quotes", function() {
-            var originalJSONString = "{\"quoteText\": \"How far that little candle throws its beams! So shines a " +
-                "good deed in a naughty world.\"}";
             var escapedJSONString = escapeJSON("{\"quoteText\": \"How far that little candle throws its beams! So shines a " +
             "good deed in a naughty world.\"}");
-            assert.equal(escapedJSONString, originalJSONString, "JSON string should not be modified");
+            var expectedEscapedJSONString = "{\"quoteText\": \"How far that little candle throws its beams! So shines a " +
+                "good deed in a naughty world.\"}";
+            assert.equal(escapedJSONString, expectedEscapedJSONString, "JSON string should not be modified");
         });
 
         it("should unescape apostrophe within JSON string", function() {
