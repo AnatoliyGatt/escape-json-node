@@ -5,6 +5,7 @@ Escape nested double quotes and unescape apostrophes within JSON string.
 [![NPM Package Version][npm-package-version-badge]][npm-package-url]
 [![NPM Package License][npm-package-license-badge]][npm-package-license-url]
 [![NPM Package Downloads][npm-package-downloads-badge]][npm-package-url]
+[![devDependencies Status][devDependencies-status-badge]][devDependencies-status-page-url]
 [![Travis CI Build Status][travis-ci-build-status-badge]][travis-ci-build-status-page-url]
 
 [![NPM Statistics][npm-statistics-image]][npm-url]
@@ -57,6 +58,9 @@ Distributed under the [MIT License](LICENSE).
 [npm-package-license-url]: http://opensource.org/licenses/MIT
 
 [npm-package-downloads-badge]: https://img.shields.io/npm/dm/escape-json-node.svg?style=flat-square
+
+[devDependencies-status-badge]: https://david-dm.org/AnatoliyGatt/escape-json-node/dev-status.svg?style=flat-square
+[devDependencies-status-page-url]: https://david-dm.org/AnatoliyGatt/escape-json-node#info=devDependencies
 
 [travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/escape-json-node.svg?style=flat-square
 [travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/escape-json-node
