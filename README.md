@@ -65,6 +65,7 @@ Distributed under the [MIT License](LICENSE).
 [travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/escape-json-node.svg?style=flat-square
 [travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/escape-json-node
 
-[npm-package-downloads-badge]: https://img.shields.io/npm/dm/escape-json-node.svg?style=flat-square
+[code-climate-status-badge]: https://img.shields.io/codeclimate/github/AnatoliyGatt/escape-json-node.svg?style=flat-square
+[code-climate-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/escape-json-node
 
 [npm-package-statistics-badge]: https://nodei.co/npm/escape-json-node.png?downloads=true&downloadRank=true&stars=true
