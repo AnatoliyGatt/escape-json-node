@@ -1,4 +1,4 @@
-# escape-json for Node.js
+![escape-json-node Logo][logo]
 
 Escape nested double quotes and unescape apostrophes within JSON string.
 
@@ -54,6 +54,8 @@ $ npm test
 ## License
 
 Distributed under the [MIT License](LICENSE).
+
+[logo]: https://cldup.com/EwVD6pZerW.png
 
 [npm-package-url]: https://npmjs.org/package/escape-json-node
 
