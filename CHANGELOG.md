@@ -1,7 +1,7 @@
 1.0.3 / 2015-08-05
 ==================
 
-* Updated README.md
+* Update README.md
 
 1.0.2 / 2015-07-31
 ==================
@@ -11,9 +11,9 @@
 1.0.1 / 2015-07-28
 ==================
 
-* Updated escape-json.js tests
-* Updated README.md
-* Updated escape-json.js documentation comments
+* Update escape-json.js tests
+* Update README.md
+* Update escape-json.js documentation comments
 
 1.0.0 / 2015-07-27
 ==================
