@@ -22,12 +22,12 @@ Escape nested double quotes and unescape apostrophes within JSON string.
 ## Usage Example
 
 ```javascript
-var escapeJSON = require("escape-json-node");
+var escapeJSON = require('escape-json-node');
 
-var JSONString = "{\"quoteText\": \"'Acceptance says, \"True, this is " +
-"my situation at the moment. I\'ll look unblinkingly at the reality of it. " +
-"But I will also open my hands to accept willingly whatever a loving " +
-"Father sends me.\"\"}";
+var JSONString = '{"quoteText": "\'Acceptance says, "True, this is ' +
+'my situation at the moment. I\'ll look unblinkingly at the reality of it. ' +
+'But I will also open my hands to accept willingly whatever a loving ' +
+'Father sends me.""}';
 
 JSONString = escapeJSON(JSONString);
 
