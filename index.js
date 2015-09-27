@@ -7,7 +7,7 @@
  * @license MIT
  */
 
-"use strict";
+'use strict';
 
 /**
  * @public
@@ -15,4 +15,4 @@
  * @returns {Function} - Function to escape nested double quotes and unescape apostrophes within JSON string.
  */
 
-module.exports = require("./lib/escape-json");
+module.exports = require('./lib/escape-json');
