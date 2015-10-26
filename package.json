@@ -1,6 +1,6 @@
 {
   "name": "escape-json-node",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Escape nested double quotes and unescape apostrophes within JSON string.",
   "keywords": [
     "espace",
