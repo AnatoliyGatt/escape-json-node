@@ -4,6 +4,7 @@
   "description": "Escape nested double quotes and unescape apostrophes within JSON string.",
   "keywords": [
     "espace",
+    "invalid",
     "json",
     "quotes",
     "apostrophes",
