@@ -1,3 +1,13 @@
+1.0.8 / 2016-07-02
+==================
+
+* Update dev dependencies
+* Update .travis.yml to run tests against node v6.0.0
+* Update .editorconfig
+* Add .editorconfig
+* Add newline at the end of all text files
+* Add .gitattributes
+
 1.0.7 / 2016-02-29
 ==================
 
