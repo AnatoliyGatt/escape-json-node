@@ -1,7 +1,7 @@
 /**
  * @module index
  * @description Entry point for escape-json-node module.
- * @version 1.0.8
+ * @version 2.0.0
  * @author Anatoliy Gatt [anatoliy.gatt@aol.com]
  * @copyright Copyright (c) 2015-2017 Anatoliy Gatt
  * @license MIT
